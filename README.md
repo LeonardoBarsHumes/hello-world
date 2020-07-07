@@ -1,7 +1,7 @@
 # hello-world
 Hello, world!
 
-My name is Leonardo Bars Humes and I'm a Master of Science Student at University of São Paulo (USP). I'm also currentky studying the Data Science Specialization from Johns Hopkins University at Coursera.
+My name is Leonardo Bars Humes and I'm a Master of Science Student at University of São Paulo (USP). I'm also currently studying the Data Science Specialization from Johns Hopkins University at Coursera.
 
 I help companys with their demands through data-driven solutions.
 
